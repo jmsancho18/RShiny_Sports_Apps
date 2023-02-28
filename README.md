@@ -27,7 +27,7 @@ List and description of RShiny Sports apps in different repositories. See Data f
 | Organization name | - | Name of organization |
 | Data | Yes/No | If the app contains any dataset |
 | Data analysis | Yes/No | If the purpose of the app is the data analysis |
-| Type of analysis | Descriptive, Predictive, Causal, NA2 | Main analysis type. No applicable if the purpose of the app is not a data analysis |
+| Type of analysis | Descriptive, Predictive, Causal, NA | Main analysis type. No applicable if the purpose of the app is not a data analysis |
 | Methodology type | - | The main type of statistical techniques used |
 | Stats Technique reported | Yes/No | If technical statistics are reported |
 | Statistical or Scientific reference | Yes/No | If there is any statistical or scientific reference |
