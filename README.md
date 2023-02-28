@@ -9,7 +9,7 @@ List and description of RShiny Sports apps in different repositories. See Data f
 | Description | - | Short description of the shiny app |
 | Creation Date | - | Date of the first version |
 | Creator’s Country | - | Country of the creator or the first contributor of the shiny app |
-| Creator’s Gender | Male/Female/NR1 | Gender of the creator or the first contributor of the shiny app. NR if it’s not clear. |
+| Creator’s Gender | Male/Female/NR | Gender of the creator or the first contributor of the shiny app. NR if it’s not clear. |
 | Server | Own Server/Shiny server (shinyapps.io) | Server where the app is stored to be deployed |
 | Scientific article | Yes/No | If the shinyapp comes from a scientific article |
 | General Objective | Sports Performance Analysis; Sports technology; Movement integration; Athlete health; eSports | The categories have been selected on the following website https://journalofsportsanalytics.com/ |
