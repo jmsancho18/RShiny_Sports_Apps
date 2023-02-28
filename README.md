@@ -6,7 +6,6 @@ List and description of RShiny Sports apps in different repositories. See Data f
 
 | Variable | Factors | Description |
 | -------- | ------- | ----------- |
-| Title | - | Shinyapp title |
 | Description | - | Short description of the shiny app |
 | Creation Date | - | Date of the first version |
 | Creator’s Country | - | Country of the creator or the first contributor of the shiny app |
