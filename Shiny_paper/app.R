@@ -5,7 +5,7 @@ library(tidyverse)
 library(htmltools)
 
 #read data
-shiny_data <- read_excel("C:/Users/josef/OneDrive/Desktop/Rshiny Paper/Data.xlsx", sheet = 1, col_names = TRUE)
+shiny_data <- read_excel("../Data.xlsx", sheet = 1, col_names = TRUE)
 
 html <- function(x, inline = FALSE) {
   container <- if (inline) htmltools::span else htmltools::div
@@ -94,9 +94,7 @@ server <- function(input, output) {
               
               columns = list(
                 Description = colDef(
-                  sticky = "left",
-                  # Add a right border style to visually distinguish the sticky column
-                  style = list(borderRight = "1px solid #eee"),
+                  style = list(borderRight = "1px solid #eee",position = "sticky", left = 0),
                   headerStyle = list(borderRight = "1px solid #eee"),
                   minWidth = 550
                 )),
