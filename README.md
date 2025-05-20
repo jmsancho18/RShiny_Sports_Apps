@@ -1,5 +1,7 @@
 # RShiny_Sports_Apps 
 
+R shiny is a popular open-source platform for developing web applications using R, and its use in sports has grown rapidly in recent years. RShiny_Sports_Apps is a collection of interactive web applications developed using R Shiny, focused on sports data analysis and visualization. These apps allow users to explore a real-world sports dataset through dynamic interfaces, offering tools for statistical analysis, performance comparison, and data-driven insights. Designed for both educational and exploratory purposes, the repository demonstrates the power of combining R’s analytical capabilities with Shiny’s interactivity to make sports analytics accessible and engaging.
+
 ## Data
 List and description of RShiny Sports apps in different repositories. See Data folder. 
 
