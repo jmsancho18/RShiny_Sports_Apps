@@ -9,17 +9,28 @@ Related article: [R Shiny Web Applications in the Sports Field: A Scoping Review
 This dataset was compiled and curated by:
 
 - **Martí Casals Toquero** – [@marticasals](https://github.com/marticasals)
+
   Affiliation: Universitat de Barcelona (UB)
-  ![ORCID iD](https://img.shields.io/badge/ORCID-0000--0002--1775--8331-a6ce39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/0000-0002-1775-8331)
+
+  ![ORCID iD](https://img.shields.io/badge/ORCID-0000--0002--1775--8331-a6ce39?logo=orcid&logoColor=white&style=flat-square)(https://orcid.org/0000-0002-1775-8331)
+
   Email: marticasals@gmail.com
 
-- **Jordi Cortés Martínez** – [@GitHubUser2](https://github.com/GitHubUser2)  
+
+- **Jordi Cortés Martínez** – [@jordicortes40](https://github.com/jordicortes40)  
+
   Affiliation: Universitat Politècnica de Catalunya - BarcelonaTech (UPC)
-  ![ORCID iD](https://img.shields.io/badge/ORCID-0000--0002--3764--0795-a6ce39?logo=orcid&logoColor=white&style=flat-square) 
+
+  ![ORCID iD](https://img.shields.io/badge/ORCID-0000--0002--3764--0795-a6ce39?logo=orcid&logoColor=white&style=flat-square)(https://orcid.org/
+0000-0002-3764-0795)
+
   Email: jordi.cortes-martinez@upc.edu
 
+
 - **Joan Martínez Sancho**  
+
   Affiliation: Institut d'Investigació Biomèdica de Girona (IDIBGI)
+
   Email: jmsancho18@gmail.com
 
 ---
