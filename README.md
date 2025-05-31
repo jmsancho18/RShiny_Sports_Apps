@@ -12,7 +12,7 @@ This dataset was compiled and curated by:
 
   Affiliation: Universitat de Barcelona (UB)
 
-  ![ORCID iD](https://img.shields.io/badge/ORCID-0000--0002--1775--8331-a6ce39?logo=orcid&logoColor=white&style=flat-square)(https://orcid.org/0000-0002-1775-8331)
+  [![ORCID iD](https://img.shields.io/badge/ORCID-0000--0002--1775--8331-a6ce39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/0000-0002-1775-8331)
 
   Email: marticasals@gmail.com
 
@@ -21,7 +21,7 @@ This dataset was compiled and curated by:
 
   Affiliation: Universitat Politècnica de Catalunya - BarcelonaTech (UPC)
 
-  ![ORCID iD](https://img.shields.io/badge/ORCID-0000--0002--3764--0795-a6ce39?logo=orcid&logoColor=white&style=flat-square)(https://orcid.org/
+  [![ORCID iD](https://img.shields.io/badge/ORCID-0000--0002--3764--0795-a6ce39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/
 0000-0002-3764-0795)
 
   Email: jordi.cortes-martinez@upc.edu
