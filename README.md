@@ -2,6 +2,33 @@
 
 R shiny is a popular open-source platform for developing web applications using R, and its use in sports has grown rapidly in recent years. RShiny_Sports_Apps is a collection of interactive web applications developed using R Shiny, focused on sports data analysis and visualization. These apps allow users to explore a real-world sports dataset through dynamic interfaces, offering tools for statistical analysis, performance comparison, and data-driven insights. Designed for both educational and exploratory purposes, the repository demonstrates the power of combining R’s analytical capabilities with Shiny’s interactivity to make sports analytics accessible and engaging.
 
+Related article: [R Shiny Web Applications in the Sports Field: A Scoping Review](https://statisticaeapplicazioni.vitaepensiero.it/scheda-articolo_digital/marti-casals-jordi-cortes-jose-fernandez/r-shiny-web-applications-in-the-sports-fielda-scoping-review-999999_2022_0002_0153-399683.html)
+
+## Authors
+
+This dataset was compiled and curated by:
+
+- **Martí Casals Toquero** – [@marticasals](https://github.com/marticasals)
+  Affiliation: Universitat de Barcelona
+  ![ORCID iD](https://img.shields.io/badge/ORCID-0000-0002-1775-8331-a6ce39?logo=orcid&logoColor=white&style=flat-square)  
+  Email: marticasals@gmail.com
+https://orcid.org/0000-0002-1775-8331
+
+- **Jordi Cortés Martínez** – [@GitHubUser2](https://github.com/GitHubUser2)  
+  Affiliation: Universitat Politècnica de Catalunya - BarcelonaTech (UPC)
+  ![ORCID iD](https://img.shields.io/badge/ORCID-0000--0002--3456--7890-a6ce39?logo=orcid&logoColor=white&style=flat-square)  
+  Email: jordi.cortes-martinez@upc.edu
+
+- **Joan Martínez Sancho**  
+  Affiliation: Institut d'Investigació Biomèdica de Girona
+  Website: [https://author3.org](https://author3.org)  
+  ![ORCID iD](https://img.shields.io/badge/ORCID-0000--0003--4567--8901-a6ce39?logo=orcid&logoColor=white&style=flat-square)
+
+---
+
+If you use this dataset, please cite the authors accordingly.
+
+
 ## Data
 List and description of RShiny Sports apps in different repositories. See Data folder. 
 
