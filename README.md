@@ -32,6 +32,12 @@ This dataset was compiled and curated by:
 
   Email: jmsancho18@gmail.com
 
+- **Jose Fernández**  
+
+  Affiliation: Faculty of Health Sciences - School of Behavioral and Health Sciences - Australian Catholic University - Fitzroy - VICTORIA (Australia).
+
+  Email: jose.fernandezdv@gmail.com
+
 ---
 
 If you use this dataset, please cite the authors accordingly.
